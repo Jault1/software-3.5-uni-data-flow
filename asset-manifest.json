@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/software-3.5-uni-data-flow/static/css/main.2af2fd99.css",
-    "main.js": "/software-3.5-uni-data-flow/static/js/main.38c2108f.js",
+    "main.css": "/software-3.5-uni-data-flow/static/css/main.eae6f3d6.css",
+    "main.js": "/software-3.5-uni-data-flow/static/js/main.e78cefff.js",
     "index.html": "/software-3.5-uni-data-flow/index.html",
-    "main.2af2fd99.css.map": "/software-3.5-uni-data-flow/static/css/main.2af2fd99.css.map",
-    "main.38c2108f.js.map": "/software-3.5-uni-data-flow/static/js/main.38c2108f.js.map"
+    "main.eae6f3d6.css.map": "/software-3.5-uni-data-flow/static/css/main.eae6f3d6.css.map",
+    "main.e78cefff.js.map": "/software-3.5-uni-data-flow/static/js/main.e78cefff.js.map"
   },
   "entrypoints": [
-    "static/css/main.2af2fd99.css",
-    "static/js/main.38c2108f.js"
+    "static/css/main.eae6f3d6.css",
+    "static/js/main.e78cefff.js"
   ]
 }
